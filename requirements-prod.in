@@ -1,0 +1,3 @@
+-c requirements.txt
+
+play-scraper>=0.5
