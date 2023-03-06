@@ -33,8 +33,10 @@ lxml==4.9.2
     # via
     #   -c requirements.txt
     #   play-scraper
-play-scraper==0.5.5
-    # via -r requirements-prod.in
+play-scraper==0.6.0
+    # via
+    #   -c requirements.txt
+    #   -r requirements-prod.in
 pycparser==2.21
     # via
     #   -c requirements.txt
